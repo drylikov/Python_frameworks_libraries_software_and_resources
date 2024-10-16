@@ -1,6 +1,6 @@
 # Python frameworks libraries software and resources.
 
-A curated list of awesome Python frameworks, libraries, software and resources.
+A curated list of Python frameworks, libraries, software and resources.
 
 - [Python](#awesome-python)
     - [Admin Panels](#admin-panels)
@@ -1304,10 +1304,6 @@ Where to discover new Python libraries.
 
 List of lists.
 
-* Monty
-    * [awesome](https://github.com/sindresorhus/awesome)
-    * [awesomo](https://github.com/lk-geimfari/awesomo)
-    * [lists](https://github.com/jnv/lists)
 * Python
     * [pycrumbs](https://github.com/kirang89/pycrumbs)
     * [python-github-projects](https://github.com/checkcheckzz/python-github-projects)
