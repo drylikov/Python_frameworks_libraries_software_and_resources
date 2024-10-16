@@ -2,7 +2,7 @@
 
 A curated list of Python frameworks, libraries, software and resources.
 
-- [Python](#awesome-python)
+- [Python](#python)
     - [Admin Panels](#admin-panels)
     - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
     - [Anti-spam](#anti-spam)
@@ -1300,7 +1300,7 @@ Where to discover new Python libraries.
 * [Python Weekly](http://www.pythonweekly.com/)
 * [Python Bytes](https://pythonbytes.fm)
 
-# Other Awesome Lists
+# Other Lists
 
 List of lists.
 
