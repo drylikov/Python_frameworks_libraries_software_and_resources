@@ -2,7 +2,7 @@
 
 A curated list of Python frameworks, libraries, software and resources.
 
-- [Python](#python)
+- [Python](#awesome-python)
     - [Admin Panels](#admin-panels)
     - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
     - [Anti-spam](#anti-spam)
